@@ -19,7 +19,7 @@ account="careylu2018"
 
 
 user = api.get_user(account)  #give detailed information on user and its followers/following (only 20 per call)
-
+#def output()
 #info on the owner of the account
 print (user.screen_name)
 print (user.followers_count)
