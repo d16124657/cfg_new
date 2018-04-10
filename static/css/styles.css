@@ -1,0 +1,19 @@
+.wrapper{
+			text-align: center; 
+			margin-top: 200px;
+		}
+		.text {
+			width: 600px;
+			padding: 5px;
+		}
+
+		body {
+			background: url(../css/images/background.jpg) no-repeat center center fixed; 
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+		}
+		.answer {
+			text-align: center;
+		}
